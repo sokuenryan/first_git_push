@@ -11,5 +11,5 @@
 > made changes for git demo!
 
 > change is inevitable!
->>>>>>> origin/main
+> origin/main
 Merged in remote master with local master changes
