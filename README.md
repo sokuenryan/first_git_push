@@ -7,3 +7,5 @@
 > added to master(main) bwahahah!
 
 > added again to master, yessah!
+
+> made changes for git demo
