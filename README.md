@@ -8,4 +8,4 @@
 
 > added again to master, yessah!
 
-> made changes for git demo
+> made changes for git demo!
